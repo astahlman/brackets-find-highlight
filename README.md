@@ -1,15 +1,16 @@
-find-highlight
-***************
+**find-highlight**
+==================
 
 This brackets extension supports incremental searching and highlighting of matches.
 
-Installation
-***************
+**Installation**
+==================
+
 Place in ```brackets/src/extensions/user``` folder.
 When installed, ```main.js``` should be at ```brackets/src/extensions/user/find-highlight/main.js```
 
-Usage
-***************
+**Usage**
+==================
 
 **Ctrl-Shift-P** brings up the find-highlight dialog
 
