@@ -12,9 +12,5 @@ When installed, ```main.js``` should be at ```brackets/src/extensions/user/find-
 **Usage**
 ==================
 
-**Ctrl-Shift-P** brings up the find-highlight dialog
-
-Simply start typing to begin the incremental search. The search supports
-plain text searches as well as regular expression searches. To search on 
-a regular expression, simply use the regular expression format, i.e. /[a-z]*/
+**Ctrl-Shift-P** brings up the find-highlight dialog. Then simply start typing to begin the incremental search. The search supports plain text searches as well as regular expression searches. To search on a regular expression, simply use the regular expression format, i.e. /[a-z]*/. When done searching, simply press Enter, Escape, or click inside the editor.
 
